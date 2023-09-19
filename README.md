@@ -1,7 +1,5 @@
 # Credit Card Fraud Detection using Random Forest
 
-![Credit Card Fraud Detection](https://github.com/MirRisalat/Credit-Card-Fraud-Detection/blob/main/images/credit_card_fraud_detection.jpg)
-
 ## Overview
 
 This GitHub repository contains a Credit Card Fraud Detection project implemented using the Random Forest machine learning algorithm. Credit card fraud is a significant concern for both financial institutions and cardholders. Detecting fraudulent transactions is crucial to prevent financial losses and maintain the trust of customers.
