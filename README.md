@@ -16,9 +16,7 @@ This project aims to create a robust and accurate fraud detection system by trai
 4. [Model Training](#model-training)
 5. [Evaluation](#evaluation)
 6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
+7. [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -83,20 +81,6 @@ We evaluate the model's performance using various metrics such as accuracy, prec
 
 The project aims to achieve a high level of accuracy in detecting fraudulent transactions while minimizing false positives. Detailed results and visualizations can be found in the `results/` directory.
 
-## Contributing
-
-Contributions to this project are welcome. You can contribute by:
-
-- Reporting issues
-- Forking the repository and creating pull requests
-- Adding new features or improving existing ones
-- Enhancing documentation
-
-Please review our [contribution guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
