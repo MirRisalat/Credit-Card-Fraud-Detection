@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Data
 
-The dataset used for this project contains credit card transaction data. It is not included in this repository due to its size and sensitivity. You can obtain the dataset from a trusted source and place it in the `data/` directory. Make sure to update the data loading code in the project accordingly.
+The dataset used for this project contains credit card transaction data. It is not included in this repository due to its size and sensitivity. You can obtain the dataset from a trusted source and place it in the `data.csv/` directory. Make sure to update the data loading code in the project accordingly.
 
 ## Usage
 
